@@ -43,3 +43,8 @@
     transform: rotate(360deg);
   }
 }
+
+.list {
+  display: flex;
+  gap: 2rem;
+}
